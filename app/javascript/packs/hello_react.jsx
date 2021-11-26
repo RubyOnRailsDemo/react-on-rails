@@ -18,7 +18,7 @@ const Hello = (props) => (
   <span style="width: 2px; height: 10px; background-color: rgb(242, 105, 62);"></span>
   <span style="width: 2px; height: 10px; background-color: rgb(242, 105, 62);"></span>
   <span style="width: 2px; height: 10px; background-color: rgb(242, 105, 62);"></span></div>
-  <div style="width: 60px; font-size: 10px;padding-left: 6px;">No shows /<br> Same-day<br> cancellations</div>
+  <div style="width: 60px; font-size: 10px;padding-left: 6px;">No shows /<br /> Same-day<br /> cancellations</div>
 </div>  Visit Again {item.name}. <br /> </div> 
       
     ))}
