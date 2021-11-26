@@ -10,7 +10,7 @@ const Hello = (props) => (
   <>
     <div>Hello Team!</div>
     {props.data.map((item, index) => (
-      <div key={index}>Hello {item.name} Welcome! <br> Visit Again {item.name}. <br></div> 
+      <div key={index}>Hello {item.name} Welcome! <br>   Visit Again {item.name}. </div> 
       
     ))}
     <div>Thank you all!</div>
