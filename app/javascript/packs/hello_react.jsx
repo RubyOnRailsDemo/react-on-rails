@@ -18,16 +18,28 @@ const Hello = (props) => (
 
 const data = [
   {
-    name: "David",
+    name: "David Abraham",
   },
   {
-    name: "Jack",
+    name: " John Jack",
   },
   {
     name: "John Abhraham",
   },
   {
     name: "David Rathode",
+  },
+  {
+    name: "David  Malik",
+  },
+  {
+    name: "Jack Julie",
+  },
+  {
+    name: "John Abhraham Kanos",
+  },
+  {
+    name: "David Rathode Mike",
   },
 ];
 
